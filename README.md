@@ -1,4 +1,4 @@
-<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/dnlcorona/3b243f783eb5a880c820bd0638358c08/raw/95a2137349137d1f0d425cc8d4f5e372c949411b/githubcard.svg"/>
+<img align="right" height="630em" src="https://raw.githubusercontent.com/gist/dnlcorona/3b243f783eb5a880c820bd0638358c08/raw/95a2137349137d1f0d425cc8d4f5e372c949411b/githubcard.svg"/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="42px" height="42px">, I'm Daniel Corona</h1>
 <h3 align="center">A Web Developer and passionate for Game Development</h3>
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
-- ⚡ Fun fact **I'm in love with 'batata palha yoki' 😝**
+- ⚡ Fun fact **I've been in love with 'batata palha yoki' 😝**
 
 <br><br>
 
