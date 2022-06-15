@@ -1,18 +1,25 @@
-<h1 align="center">Hi 👋, I'm Daniel Corona</h1>
+<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/dnlcorona/3b243f783eb5a880c820bd0638358c08/raw/95a2137349137d1f0d425cc8d4f5e372c949411b/githubcard.svg"/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="42px" height="42px">, I'm Daniel Corona</h1>
 <h3 align="center">A Web Developer and passionate for Game Development</h3>
 
 <br><br>
 
 - 🔭 I'm looking for a new opportunity
+
 - 📫 Contact me at: **danielcorona313@gmail.com**
+
 <!-- - 👨‍💻 All of my projects are available at [danielcorona.com.br](https://danielcorona.com.br) -->
+
+- 💬 Ask me about **JavaScript, HTML, CSS**
+
+- ⚡ Fun fact **I'm in love with 'batata palha yoki' 😝**
 
 <br><br>
 
 ## 📸 &nbsp;Connect with my social medias
 <p align="left">
-<a href="https://instagram.com/dnlcorona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dnlcorona" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dnlcorona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dnlcorona" height="30" width="40" /></a>
+<a href="https://instagram.com/dnlcorona" target="blank"><img align="center" src="https://img.shields.io/badge/-dnlcorona-05122A?style=for-the-badge&logo=instagram" alt="instagram dnlcorona"/></a>
+<a href="https://linkedin.com/in/dnlcorona" target="blank"><img align="center" src="https://img.shields.io/badge/-dnlcorona-05122A?style=for-the-badge&logo=linkedin" alt="linkedin dnlcorona"/></a>
 </p>
 
 <br><br>
