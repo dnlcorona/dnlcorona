@@ -5,14 +5,11 @@
 <br><br>
 
 - 🔭 I'm looking for a new opportunity
-
 - 📫 Contact me at: **danielcorona313@gmail.com**
-
 <!-- - 👨‍💻 All of my projects are available at [danielcorona.com.br](https://danielcorona.com.br) -->
+- 💬 Ask me about anything, I am happy to help :)
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
-
-- ⚡ Fun fact **I've been in love with 'batata palha yoki' 😝**
+- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/dnlcorona/)
 
 <br><br>
 
