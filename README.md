@@ -1,4 +1,3 @@
-<img align="right" height="630em" src="https://raw.githubusercontent.com/gist/dnlcorona/3b243f783eb5a880c820bd0638358c08/raw/95a2137349137d1f0d425cc8d4f5e372c949411b/githubcard.svg"/>
 <h1 align="center">Hi :wave:, I'm Daniel Corona</h1>
 <h3 align="center">Web & Mobile Developer</h3>
 
