@@ -6,11 +6,11 @@
 <!-- 👨‍💻 All of my projects are available at [danielcorona.com.br](https://danielcorona.com.br) -->
 
 ### 📸 &nbsp;Find me elsewhere
-<p align="left">
+
 <a href="https://dev.to/dnlcorona" target="blank"><img align="center" src="https://img.shields.io/badge/-dnlcorona-05122A?style=for-the-badge&logo=dev.to" alt="dev.to dnlcorona"/></a>
- [![LINKEDIN](https://img.shields.io/badge/Linkedin-05122A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitormalencar)
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-05122A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dnlcorona)
 <a href="https://linkedin.com/in/dnlcorona" target="blank"><img align="center" src="https://img.shields.io/badge/-dnlcorona-05122A?style=for-the-badge&logo=linkedin" alt="linkedin dnlcorona"/></a>
-</p>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
