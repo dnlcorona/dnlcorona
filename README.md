@@ -2,7 +2,7 @@
 ### Enthusiast of the best web & mobile development technologies.
 
 💬 Ask me about anything, I am happy to help</br>
-🌱 Learning all about **Open Source**</br>
+🌱 Learning all about **JavaScript**</br>
 <!-- 👨‍💻 All of my projects are available at [danielcorona.com.br](https://danielcorona.com.br) -->
 
 ### 💬 &nbsp;Find me elsewhere
