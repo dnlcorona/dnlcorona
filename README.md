@@ -7,9 +7,8 @@
 
 ### 📸 &nbsp;Find me elsewhere
 
-<a href="https://dev.to/dnlcorona" target="blank"><img align="center" src="https://img.shields.io/badge/-dnlcorona-05122A?style=for-the-badge&logo=dev.to" alt="dev.to dnlcorona"/></a>
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-05122A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dnlcorona)
-<a href="https://linkedin.com/in/dnlcorona" target="blank"><img align="center" src="https://img.shields.io/badge/-dnlcorona-05122A?style=for-the-badge&logo=linkedin" alt="linkedin dnlcorona"/></a>
+[![DEV.TO](https://img.shields.io/badge/Linkedin-05122A?style=for-the-badge&logo=linkedin)](https://dev.to/dnlcorona)
 
 
 ### 🛠 &nbsp;Tech Stack
