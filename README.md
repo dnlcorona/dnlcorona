@@ -5,10 +5,9 @@
 🌱 Learning all about **Open Source**</br>
 <!-- 👨‍💻 All of my projects are available at [danielcorona.com.br](https://danielcorona.com.br) -->
 
-### 📸 Find me elsewhere
-&nbsp; &nbsp; &nbsp;
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-050816?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dnlcorona)
-[![DEV.TO](https://img.shields.io/badge/Dev.to-050816?style=for-the-badge&logo=dev.to)](https://dev.to/dnlcorona)
+### 💬 &nbsp;Find me elsewhere
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-050816?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dnlcorona)&nbsp;
+[![DEV.TO](https://img.shields.io/badge/Dev.to-050816?style=for-the-badge&logo=dev.to)](https://dev.to/dnlcorona)&nbsp;
 
 
 ### 🛠 &nbsp;Tech Stack
