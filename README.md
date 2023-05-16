@@ -1,5 +1,5 @@
-<h1 align="center">Hi :wave:, I'm Daniel Corona</h1>
-<h3 align="center">Web & Mobile Developer</h3>
+# Hi :wave:, I'm Daniel Corona
+Web and Mobile Developer
 
 <br><br>
 
