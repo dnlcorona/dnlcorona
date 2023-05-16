@@ -8,7 +8,7 @@
 ### 📸 &nbsp;Find me elsewhere
 
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-05122A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dnlcorona)
-[![DEV.TO](https://img.shields.io/badge/Linkedin-05122A?style=for-the-badge&logo=linkedin)](https://dev.to/dnlcorona)
+[![DEV.TO](https://img.shields.io/badge/Dev.to-05122A?style=for-the-badge&logo=dev.to)](https://dev.to/dnlcorona)
 
 
 ### 🛠 &nbsp;Tech Stack
