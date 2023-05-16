@@ -2,8 +2,8 @@
 Enthusiast of the best web & mobile development technologies.
 
 📫 Contact me at: **danielcorona313@gmail.com**</br>
-💬 Ask me about anything, I am happy to help
-💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/dnlcorona/)
+💬 Ask me about anything, I am happy to help</br>
+💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/dnlcorona/)</br>
 <!-- 👨‍💻 All of my projects are available at [danielcorona.com.br](https://danielcorona.com.br) -->
 
 ### 📸 &nbsp;Connect with my social medias
