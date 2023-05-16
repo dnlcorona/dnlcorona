@@ -1,14 +1,14 @@
 # Daniel Corona
-Enthusiast of the best web & mobile development technologies.
+### Enthusiast of the best web & mobile development technologies.
 
-📫 Contact me at: **danielcorona313@gmail.com**</br>
 💬 Ask me about anything, I am happy to help</br>
-💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/dnlcorona/)</br>
+🌱 Learning all about **Open Source**</br>
 <!-- 👨‍💻 All of my projects are available at [danielcorona.com.br](https://danielcorona.com.br) -->
 
-### 📸 &nbsp;Connect with my social medias
+### 📸 &nbsp;Find me elsewhere
 <p align="left">
 <a href="https://dev.to/dnlcorona" target="blank"><img align="center" src="https://img.shields.io/badge/-dnlcorona-05122A?style=for-the-badge&logo=dev.to" alt="dev.to dnlcorona"/></a>
+ [![LINKEDIN](https://img.shields.io/badge/Linkedin-05122A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitormalencar)
 <a href="https://linkedin.com/in/dnlcorona" target="blank"><img align="center" src="https://img.shields.io/badge/-dnlcorona-05122A?style=for-the-badge&logo=linkedin" alt="linkedin dnlcorona"/></a>
 </p>
 
