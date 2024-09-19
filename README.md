@@ -1,9 +1,9 @@
 # Daniel Corona
-### Enthusiast of the best web & mobile development technologies.
+### Full Stack Developer
 
-💬 Ask me about everything, I always enjoy helping people.</br>
-🌱 Learning all about **JavaScript**</br>
+Enthusiast of the best web & mobile development technologies.</br>
 <!-- 👨‍💻 All of my projects are available at [danielcorona.com.br](https://danielcorona.com.br) -->
+<!-- 🌐 I like to write some things. Available at [danielcorona.com.br](https://danielcorona.com.br) -->
 
 ### 💬 &nbsp;Find me elsewhere
 [![Gmail Badge](https://img.shields.io/badge/Gmail-050816?style=for-the-badge&logo=gmail)](mailto:danielcorona313@gmail.com)&nbsp;
